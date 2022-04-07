@@ -10,7 +10,7 @@
 
 Here is my shopping list
 * Yogurt
-* apples
+* Notebook
 * oranges
 
 Jackie's favorite programming languages
@@ -23,7 +23,7 @@ This is an `inline code`
 ```
 This is a code block
 
-Hello World
+Hello Word part 2
 
 ```
 >Blockquote Moment!
