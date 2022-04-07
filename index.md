@@ -21,7 +21,7 @@ Jackie's favorite programming languages
 This is an `inline code`
 
 ```
-#This is a code block
+This is a code block
 
 Hello World
 
