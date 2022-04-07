@@ -24,3 +24,5 @@ This is an `inline code`
 #This is a code block
 
 Hello World
+
+![Here's a picture of the Eiffel Tower](https://static.toiimg.com/photo/msid-53891743,width-96,height-65.cms)
