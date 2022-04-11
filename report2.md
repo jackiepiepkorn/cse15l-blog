@@ -32,3 +32,10 @@ Enter passphrase (empty for no passphrase):
 Make sure you press enter when it says _Enter passphrase_. If you have a Windows device, follow these additional instructions: [Windows SSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)!
 
 Look, it didn't ask for my password and just logged me in! ![Image](https://i.imgur.com/4zKVVyR.png)
+
+### 6) Optimize Remote Running
+
+One way I optimized the remote running was using the up arrow to basically and paste the last thing I entered into the terminal. Another thing I did was run the `ls` command on the same line as logging into ssh, with this code: `ssh cs15lsp22zzz@ieng6.ucsd.edu`
+Here's what happened when I successfully optimized remote running:
+
+![Image](https://i.imgur.com/Bq5wisQ.png)
