@@ -10,7 +10,7 @@ The bug is that the program continues searching for links after there are no mor
 
 Here was my fix: ![Fixed Code](https://i.imgur.com/3MtAYKN.png)
 
-
+</br>
 
 ## Code Change 2
 ![Image 2](https://i.imgur.com/260Qe2U.png)
@@ -21,6 +21,18 @@ This is the symptom
 The bug is that the program thinks the image link is a link, which causes it to create the symptom of printing out the image link, even though it is not a link. The failure inducing input is the my-test-file.md, which has an image link, which is interpreted as a link by the program.
 
 Here was my fix: ![Fixed Code](https://i.imgur.com/3MtAYKN.png)
+
+</br>
+
+## Code Change 3
+![Image 3](https://i.imgur.com/ofBAnEV.png)
+This is the symptom
+
+[Test File #3](https://github.com/jackiepiepkorn/markdown-parser/blob/27134e270282d19265934716c26cf170f0536804/bracket-test.md)
+
+The bug is that the program runs the loop infinitely after there are no more links, which causes it to create the symptom of the program running out of memory. The failure inducing input is the bracket-test.md, which has an extra bracket on the last line, which causes the while loop to infinitely run as it does not have a corresponding closing bracket.
+
+Here was my fix: ![Fixed Code](https://i.imgur.com/HqP1ssf.png)
 
 
 
