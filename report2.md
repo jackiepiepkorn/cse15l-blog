@@ -10,7 +10,6 @@ The bug is that the program continues searching for links after there are no mor
 
 Here was my fix: ![Fixed Code](https://i.imgur.com/3MtAYKN.png)
 
-</br>
 
 ## Code Change 2
 ![Image 2](https://i.imgur.com/260Qe2U.png)
@@ -22,7 +21,6 @@ The bug is that the program thinks the image link is a link, which causes it to 
 
 Here was my fix: ![Fixed Code](https://i.imgur.com/3MtAYKN.png)
 
-</br>
 
 ## Code Change 3
 ![Image 3](https://i.imgur.com/ofBAnEV.png)
