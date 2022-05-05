@@ -6,3 +6,5 @@
 **Lab Report 1:** [Click Here!](https://jackiepiepkorn.github.io/cse15l-blog/report1.html)
 
 **Lab Report 2:** [Click Here!](https://jackiepiepkorn.github.io/cse15l-blog/report2.html)
+
+**Lab Report 3:** [Click Here!](https://jackiepiepkorn.github.io/cse15l-blog/lab-report-3-week-6.html)
