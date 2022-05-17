@@ -12,3 +12,4 @@ Here is when I moved a file using the streamline in scp.
 ![scp time](https://i.imgur.com/1qmlTrc.png)
 
 ## Setup Github Access from ieng6
+![public and private keys](https://i.imgur.com/WR0VmFO.png)
