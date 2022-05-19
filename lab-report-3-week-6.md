@@ -12,4 +12,5 @@ Here is when I moved a file using the streamline in scp.
 ![scp time](https://i.imgur.com/1qmlTrc.png)
 
 ## Setup Github Access from ieng6
+Here is the private key (CSE 15L token) and the public key (CSE 15L token FOR REAL) on my Github account.
 ![public and private keys](https://i.imgur.com/WR0VmFO.png)
