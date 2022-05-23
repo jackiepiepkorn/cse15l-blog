@@ -1,6 +1,6 @@
 # Lab Report 4
 
-### [Link to My Group's Markdown Parse Repository](https://github.com/jackiepiepkorn/markdown-parser)
+### [Link to My Markdown Parse Repository](https://github.com/jackiepiepkorn/markdown-parser)
 ### [Link to the Repository We Reviewed](https://github.com/ryankosta/good-markdown-parser)
 
 ## Snippet 1
