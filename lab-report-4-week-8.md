@@ -14,7 +14,7 @@ It should produce only 'another link' as a link, which I saw on commonmark.org
 There is a failure.
 
 ### Output of the test on their repo:
-![Test Fail Snippet 1](https://i.imgur.com/NC2OUmi.png?1)
+![Test Fail Snippet 1](https://i.imgur.com/gved9u8.png?1)
 There is a failure.
 
 ### How I Can Change My Code
@@ -23,7 +23,7 @@ I can try to make sure the link is not outputted if there is a backtick without 
 ## Snippet 2
 
 ### Test for Snippet 2:
-![Test for Snippet 2](https://i.imgur.com/tmib6zg.png?1)
+![Test for Snippet 2](https://i.imgur.com/5ONAVKO.png?1)
 It should produce all links except the b.com one.
 
 ### Output of the test on my repo:
@@ -40,7 +40,7 @@ I can make sure that links with a opening parenthesis without a corresponding cl
 ## Snippet 3
 
 ### Test for Snippet 3:
-![Test for Snippet 3](https://i.imgur.com/1CBpWvG.png?1)
+![Test for Snippet 3](https://i.imgur.com/jpAd1TP.png?1)
 It should produce only the link for the CSE schedule.
 
 ### Output of the test on my repo:
