@@ -18,7 +18,7 @@ There is a failure.
 There is a failure.
 
 ### How I Can Change My Code
-I can do XYZ
+I can try to make sure the link is not outputted if there is a backtick without a pair. Only the links with pairs, not backticks without a pair, will be outputted.
 
 ## Snippet 2
 
@@ -35,7 +35,7 @@ There is a failure.
 There is a failure.
 
 ### How I Can Change My Code
-I can do XYZ
+I can make sure that links with a opening parenthesis without a corresponding closing one will not be outputted.
 
 ## Snippet 3
 
@@ -52,4 +52,4 @@ There is a failure.
 There is a failure.
 
 ### How I Can Change My Code
-I can do XYZ
+Because the issue was caused by linebreaks and extra spaces, I can code my MarkdownParse to make sure that it does not count linebreaks or large gaps in its parsing.
