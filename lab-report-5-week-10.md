@@ -13,8 +13,10 @@ My group used vimdiff on the results of running a bash for loop.
 Here are the actual outputs:
 ![Actual outputs](https://i.imgur.com/AbPTDBo.png?1)
 The link output should have been any links, so only our code was correct in its output.
+### Bug fix:
 
 ## Test 2 (194.md)
 Here are the actual outputs:
 ![Actual outputs](https://i.imgur.com/ZlO8E09.png?1)
 The link output should have been "Foo*bar]", so both markdown parse codes were wrong in their outputs.
+### Bug fix: sigh
