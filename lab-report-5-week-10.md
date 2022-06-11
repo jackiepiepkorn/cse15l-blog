@@ -21,5 +21,6 @@ In order to fix the provided MarkdownParser, we would need to fix the part where
 Here are the actual outputs:
 ![Actual outputs](https://i.imgur.com/ZlO8E09.png?1)
 The link output should have been "Foo*bar]", so both markdown parse codes were wrong in their outputs.
-### Bug fix: If we focus on fixing the provided Markdown Parser code, we can change the code to consider that there might be extra characters between the link name and the link itself. This is the area of code I would edit:
+### Bug fix:
+If we focus on fixing the provided Markdown Parser code, we can change the code to consider that there might be extra characters between the link name and the link itself. This is the area of code I would edit:
 ![Editing for #194](https://i.imgur.com/NwhDlOg.png?1)
